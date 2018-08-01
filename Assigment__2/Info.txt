@@ -1,0 +1,7 @@
+Problem 1:
+ 1.convert all simple javascriptcfunctions to ES6 in this file-"function_ES6.js"
+
+Problem 2:
+  1.Output Coming in console of this file-"output.html"
+  2.all function in this file -"function.js"
+  3.all data store in this file-"data.json"

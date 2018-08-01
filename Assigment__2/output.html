@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="function.js"></script>
+	<script src="data.json"></script>
+	<script>
+		let season_number= window.prompt('Enter season_number') //Season number as Input
+		let episode_number=window.prompt('Enter episode_number')//Episode number as Input
+		FindInformation_BySeasonEpisode(show,season_number,episode_number);//call function find information using season and episode number
+		let episode_Id=window.prompt('Enter Episode Id')      //Episode Id as Input
+		FindInformation_ById(show,episode_Id);                //call function find information using episode Id 
+		let episode_Name=window.prompt('Enter episode Name') //Episode name as Input
+		FindInformation_ByName(show,episode_Name);           //call function find episode using episode name
+
+
+	</script>
+</head>
+<body>
+
+</body>
+</html>
