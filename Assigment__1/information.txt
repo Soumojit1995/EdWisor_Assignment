@@ -1,0 +1,8 @@
+Problem1:
+  1.Ecommerce data store in this file-Ecommerce.json
+
+
+Problem2 :
+   1.Output coming in console of this file"output.html"
+   2.all function in this file-"function.js"
+   3.all data store in this file-"data.json"

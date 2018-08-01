@@ -1,0 +1,168 @@
+{"collection": [
+{
+ "Name_Of_Product":"Redmi Y1",
+ "Price_Of_Product":9999.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"32GB"},
+     {"RAM":"3GB"},
+     {"Rear_Camera":"13MP"},
+     {"Front_Camera":"16MP"},
+     {"Battery":"3080mAh"},
+     {"Display":"5.5-inch"}],
+ "Company_Name_Of_Product":"MI",
+ "Image_Of_Product":"http://www.mi.com/in/Y1.jpg",
+ "colour_Of_Product":["Gold","Dark Grey"]
+},
+{
+ "Name_Of_Product":"Redmi 4",
+ "Price_Of_Product":"6999.00",
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"16GB"},
+     {"RAM":"2GB"},
+     {"Rear_Camera":"13MP"},
+     {"Front_Camera":"5MP"},
+     {"Battery":"4100mAh"},
+     {"Display":"5-inch"}],
+ "Company_Name_Of_Product":"MI",
+ "Image_Of_Product":"http://www.mi.com/in/4.jpg",
+ "colour_Of_Product":["Gold","Dark Grey"]
+},
+{
+ "Name_Of_Product":"Moto G5s Plus",
+ "Price_Of_Product":16999.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"64GB"},
+     {"RAM":"4GB"},
+     {"Rear_Camera":"13MP"},
+     {"Front_Camera":"13MP"},
+     {"Battery":"3000mAh"},
+     {"Display":"5.5-inch"}],
+ "Company_Name_Of_Product":"Motorola",
+ "Image_Of_Product":"https://www.motorola.in/G5s_Plus.jpg",
+ "colour_Of_Product":["Lunar Grey","Blush Gold"]
+},
+{
+ "Name_Of_Product":"Moto E4 Plus",
+ "Price_Of_Product":9990.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"32GB"},
+     {"RAM":"3GB"},
+     {"Rear_Camera":"13MP"},
+     {"Front_Camera":"5MP"},
+     {"Battery":"5000mAh"},
+     {"Display":"5.5-inch"}],
+ "Company_Name_Of_Product":"Motorola",
+ "Image_Of_Product":"https://www.motorola.in/E4_Plus.jpg",
+ "colour_Of_Product":["Fine Gold","Iron Grey"]
+},
+{
+ "Name_Of_Product":"OnePlus 5T",
+ "Price_Of_Product":32999.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"64GB"},
+     {"RAM":"6GB"},
+     {"Rear_Camera":"20MP"},
+     {"Front_Camera":["16MP","16MP"]},
+     {"Battery":"3300mAh"},
+     {"Display":"6-inch"}],
+ "Company_Name_Of_Product":"OnePlus",
+ "Image_Of_Product":"https://oneplusstore.in/5T.jpg",
+ "colour_Of_Product":["Midnight Black"]
+},
+{
+"Name_Of_Product":"Apple iPhone X",
+"Price_Of_Product":101991.00, 
+"Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"256GB"},
+     {"RAM":"3GB"},
+     {"Rear_Camera":"12MP,12MP"},
+     {"Front_Camera":"7MP"},
+     {"Battery":"2716mAh"},
+     {"Display":"5.8-inch"}],
+ "Company_Name_Of_Product":"Apple",
+ "Image_Of_Product":"https://www.apple.com/in/iPhone_x.jpg",
+ "colour_Of_Product":["Silver","Space Grey"]
+},
+{
+"Name_Of_Product":"iPhone 8 Plus",
+"Price_Of_Product":86000.00, 
+"Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"256GB"},
+     {"RAM":"3GB"},
+     {"Rear_Camera":"12MP,12MP"},
+     {"Front_Camera":"7MP"},
+     {"Battery":"2900mAh"},
+     {"Display":"5.5-inch"}],
+ "Company_Name_Of_Product":"Apple",
+ "Image_Of_Product":"https://www.apple.com/in/iPhone_8Plus.jpg",
+ "colour_Of_Product":["Silver","Space Grey","Gold"]
+},
+{
+ "Name_Of_Product":"Honor 7X",
+ "Price_Of_Product":15999.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"64GB"},
+     {"RAM":"4GB"},
+     {"Rear_Camera":"16MP,2MP"},
+     {"Front_Camera":"8MP"},
+     {"Battery":"3340mAh"},
+     {"Display":"5.93-inch"}],
+ "Company_Name_Of_Product":"Honor",
+ "Image_Of_Product":"https://store.hihonor.com/in/7x.jpg",
+ "colour_Of_Product":["Blue","Black","Gold"]
+},
+{
+ "Name_Of_Product":"Vivo V7",
+ "Price_Of_Product":19990.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"32GB"},
+     {"RAM":"4GB"},
+     {"Rear_Camera":"16MP"},
+     {"Front_Camera":"24MP"},
+     {"Battery":"3000mAh"},
+     {"Display":"5.7-inch"}],
+ "Company_Name_Of_Product":"Vivo",
+ "Image_Of_Product":"https://www.vivo.com/in/v7.jpg",
+ "colour_Of_Product":["Energetic Blue","Champagne Gold","Matte Black"]
+},
+{
+ "Name_Of_Product":"OPPO F3",
+ "Price_Of_Product":20990.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"64GB"},
+     {"RAM":"4GB"},
+     {"Rear_Camera":"13MP"},
+     {"Front_Camera":"16MP,8MP"},
+     {"Battery":"3200mAh"},
+     {"Display":"5.5-inch"}],
+ "Company_Name_Of_Product":"OPPO",
+ "Image_Of_Product":"https://www.oppo.com/in/F3.jpg",
+ "colour_Of_Product":["Gold","Black"]
+},
+{
+ "Name_Of_Product":"Samsung Galaxy S8 Plus",
+ "Price_Of_Product":62990.00,
+ "Category_Of_Product":"Mobiles",
+ "Specification_Of_Product":[
+     {"Internal_memory":"128GB"},
+     {"RAM":"6GB"},
+     {"Rear_Camera":"12MP"},
+     {"Front_Camera":"8MP"},
+     {"Battery":"3500mAh"},
+     {"Display":"6.2-inch"}],
+ "Company_Name_Of_Product":"Samsung",
+ "Image_Of_Product":"http://www.samsung.com/in/s8_Plus.jpg",
+ "colour_Of_Product":["Midnight Black","Orchid Grey","Coral Blue"]
+}
+]
+}
