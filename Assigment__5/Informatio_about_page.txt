@@ -1,0 +1,5 @@
+1.Navbar component---In index.html page
+2.Modal component---In index.html page(when page open modal coming)
+3.Collapse component - accordion format---- In index.html page(Collapse component use in (Area of Interests in Technologies & Project & Pofessional Experience).)
+
+
